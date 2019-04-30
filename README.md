@@ -29,3 +29,5 @@ Create a movie database fullstack application with the following:
 
 ### Challenge 3:
 - Style the movie information using a grid in a grid (similar to Bootstrap Cards)
+<hr>
+0 points. Very little client side and very little backend.
